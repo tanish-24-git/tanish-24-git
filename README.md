@@ -1,3 +1,8 @@
+<h1 align="center">
+  <span style="color:grey;">Hey, I am</span> 
+  <span style="color:black;" id="name">Tanish Jagtap</span>
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&center=true&vCenter=true&repeat=false&width=600&lines=Hey+I+am+Tanish+Jagtap" alt="Typing SVG" />
 </p>
