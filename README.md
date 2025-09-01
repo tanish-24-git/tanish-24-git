@@ -31,11 +31,11 @@
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=tanishjagtap&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=tanish-24-git&show_icons=true&theme=radical)  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanishjagtap&theme=radical&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanish-24-git&theme=radical&hide_border=false)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishjagtap&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=radical)  
 
 ---
 
