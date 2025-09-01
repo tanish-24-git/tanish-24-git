@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://github.com/tanish-24-git"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tanishjagtap"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/tanish-jagtap/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Tanish_Jagtap"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
