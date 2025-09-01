@@ -10,6 +10,16 @@
 
 ---
 
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/tanish-24-git"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanishjagtap"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
 ## 🌟 Summary  
 
 💡 I am **Tanish Jagtap**, a passionate **AI & ML enthusiast** 🚀  
@@ -51,28 +61,12 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://github.com/tanish-24-git"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tanishjagtap"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-24-git&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=tanish-24-git&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
