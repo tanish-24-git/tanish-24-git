@@ -1,6 +1,5 @@
 <!-- Intro with Typing Animation -->
 <h1 align="center">
-  <span style="color:grey">Hey, I am</span> 
   <span style="color:black">Tanish Jagtap</span>
 </h1>
 
