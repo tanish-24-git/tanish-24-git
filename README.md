@@ -12,10 +12,26 @@
 
 ## 🌟 Summary  
 
-💡 I am **Tanish Jagtap**, a passionate **AI & ML enthusiast** 🚀.  
-I love building projects around **Machine Learning, LLMs, RAGs, and Generative AI**.  
-I’ve participated in hackathons 🏆, worked on **supply chain forecasting, menstrual tracking, and space debris prediction**.  
-Currently exploring **Next.js, Flutter, FastAPI, LangChain, and cloud computing** ☁️.  
+💡 I am Tanish Jagtap, a passionate AI & ML enthusiast 🚀
+I work across the end-to-end Machine Learning lifecycle — from data preprocessing, feature engineering, and model training to evaluation, optimization, deployment, and scaling.
+
+🔹 Areas of focus:
+
+Machine Learning & Deep Learning (Supervised, Unsupervised, Reinforcement Learning)
+
+Large Language Models (LLMs) — fine-tuning, prompt engineering, RAGs, and domain adaptation
+
+Generative AI — text, synthetic data, and multimodal systems
+
+LangChain & Graph-based ML for structured reasoning and knowledge integration
+
+GPU Computing & Parallelization for model acceleration
+
+Compiler Design concepts applied to ML system optimization
+
+MLOps & Deployment — CI/CD for ML, containerization, cloud-based scaling, and monitoring
+
+🌱 Always exploring ways to combine theory, engineering, and research to build intelligent, scalable, and impactful AI systems.  
 
 ---
 
