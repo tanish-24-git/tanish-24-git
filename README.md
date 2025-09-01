@@ -13,7 +13,7 @@
 ## 🌟 Summary  
 
 💡 I am **Tanish Jagtap**, a passionate **AI & ML enthusiast** 🚀  
-I work across the **end-to-end Machine Learning lifecycle** — from **data preprocessing, feature engineering, and model training** to **evaluation, optimization, deployment, and scaling**.  
+I specialize in the **end-to-end Machine Learning lifecycle** — from **data preprocessing, feature engineering, and model training** to **evaluation, optimization, deployment, and scaling**.  
 
 🔹 **Focus Areas**  
 - Machine Learning & Deep Learning (Supervised, Unsupervised, Reinforcement Learning)  
@@ -32,33 +32,30 @@ I work across the **end-to-end Machine Learning lifecycle** — from **data prep
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top">
+### Languages / Frameworks / Infra
 
-### **Languages / Frameworks / Infra**
-
-| Category       | Tech |
-|----------------|------|
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
 | **Languages**  | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 | **Frameworks** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
 | **Infra**      | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
-</td>
-<td valign="top">
+### Databases / ML / AI
 
-### **Databases / ML / AI**
-
-| Category     | Tech |
-|--------------|------|
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **ML / AI**  | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-0E1117?logo=chainlink&logoColor=white) ![Graph ML](https://img.shields.io/badge/-Graph%20ML-4285F4?logo=neo4j&logoColor=white) |
-
-</td>
-</tr>
-</table>
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Databases**  | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **ML / AI**    | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-0E1117?logo=chainlink&logoColor=white) ![Graph ML](https://img.shields.io/badge/-Graph%20ML-4285F4?logo=neo4j&logoColor=white) |
 
 </div>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
