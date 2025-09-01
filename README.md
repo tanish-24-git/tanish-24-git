@@ -1,17 +1,13 @@
 # 👋 Hey, I'm Tanish Jagtap  
 
-🚀 AI & Data Science Enthusiast | 💻 Developer | 📷 Photographer  
+🚀 AI & Data Science Enthusiast | 💻 Developer | 
 
 🌟 About Me:  
-- 🎓 2nd Year B.Tech student in **AI & Data Science**  
-- 💡 Exploring **AI, ML/DL, Cybersecurity, and Quantum Computing**  
-- 🛠️ Building with **C/C++, Python, Next.js, FastAPI, Flutter, Dart**  
+- 🎓 3rd Year B.Tech student in **AI & Data Science**  
+- 💡 Exploring **AI, ML/DL, LLms, GPU computing, Compiler development**   
 - 🤖 Passionate about **LLMs, LangChain, RAGs, and Graph ML**  
-- ⚡ Active in Hackathons & Open Source Contributions  
 
 ---
-
-## 🛠️ Skills  
 
 ## 🛠️ Tech Stack  
 
