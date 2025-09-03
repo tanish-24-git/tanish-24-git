@@ -63,7 +63,7 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-24-git&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tanish-24-git&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=tanish-24-git&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <br><br>
