@@ -1,6 +1,6 @@
 <!-- Intro with Typing Animation -->
 <h1 align="center">
-  <img src="https://freeimage.host/i/KkeGfna" alt="Logo" width="60" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="https://freeimage.host/i/try-diagram-the-most-complete-nocode-api-builder.KkeGfna" alt="Logo" width="60" style="vertical-align: middle; margin-right: 15px;" />
   <span style="color:black">Tanish Jagtap</span>
 </h1>
 
