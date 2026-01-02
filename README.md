@@ -85,6 +85,6 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-24-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanish-24-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 </div>
