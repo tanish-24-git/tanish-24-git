@@ -81,7 +81,7 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tanish-24-git&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tanish-24-git)](https://git.io/streak-stats)
   
   <br>
 
