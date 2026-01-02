@@ -52,6 +52,7 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
@@ -61,6 +62,7 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
 
   <br>
 
@@ -83,12 +85,6 @@ I specialize in the **end-to-end Machine Learning lifecycle** — from **data pr
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-24-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-
-  <br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanish-24-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="tanish-24-git" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish-24-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-24-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 </div>
